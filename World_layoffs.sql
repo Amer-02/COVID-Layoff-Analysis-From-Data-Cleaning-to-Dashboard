@@ -1,3 +1,5 @@
+-- Make sure to select appropiate schema.
+
 SELECT *
 FROM layoffs;
 
