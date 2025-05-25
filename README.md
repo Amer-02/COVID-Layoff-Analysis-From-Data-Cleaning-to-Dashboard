@@ -25,7 +25,6 @@ This project explores the global impact of workforce layoffs during the COVID-19
 - `Pandemic_layoffs_dashboard.pbix` – Power BI report file
 
 ## 📈 Sample Dashboard
-*(Add a screenshot or link to a published Power BI report if available)*
 ![Screenshot 2025-05-25 230446](https://github.com/user-attachments/assets/1acfbfab-c447-4fa1-a250-299b1c0fc1d9)
 
 ---
