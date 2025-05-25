@@ -19,7 +19,7 @@ This project explores the global impact of workforce layoffs during the COVID-19
 - Excel (For minor data review)
 
 ## 📂 Files
-- `layoffs.csv` - Raw dataset
+- `layoffs.csv` - Original dataset
 - `World_layoffs.sql` – SQL queries used for data cleaning
 - `cleaned_layoffs.csv` – Exported dataset after cleaning
 - `Pandemic_layoffs_dashboard.pbix` – Power BI report file
