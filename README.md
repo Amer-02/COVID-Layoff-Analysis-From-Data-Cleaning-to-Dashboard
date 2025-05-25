@@ -6,29 +6,27 @@ This project explores the global impact of workforce layoffs during the COVID-19
 - 📈 **Interactive Dashboards** built with **Power BI**
 
 ## 📌 Project Highlights
-- Cleaned raw layoff dataset using SQL (handled nulls, standardized columns, performed EDA)
-- Analyzed layoff trends by company, industry, geography, and time
-- Built a 2-page Power BI dashboard showing:
+- Cleaned raw layoff dataset using SQL (handled necessary nulls, standardized columns, performed EDA).
+- Analyzed layoff trends by company, industry, geography, and time.
+- Built a Power BI dashboard showing:
   - Total layoffs over time
   - Top companies and industries affected
   - Geographic distribution of layoffs
-  - Drill-down table for detailed exploration
 
 ## 🛠 Tools Used
-- SQL (PostgreSQL / MySQL / BigQuery – specify which)
+- SQL (MySQL)
 - Power BI
-- Excel (optional for minor data review)
+- Excel (For minor data review)
 
 ## 📂 Files
-- `cleaned_layoffs.sql` – SQL queries used for data cleaning
+- `layoffs.csv` - Original dataset
+- `World_layoffs.sql` – SQL queries used for data cleaning
 - `cleaned_layoffs.csv` – Exported dataset after cleaning
-- `covid_layoffs_dashboard.pbix` – Power BI report file
+- `Pandemic_layoffs_dashboard.pbix` – Power BI report file
 
 ## 📈 Sample Dashboard
 *(Add a screenshot or link to a published Power BI report if available)*
-
-## 📥 Dataset Source
-Dataset used from: [Insert source link here if public — e.g., Layoffs.fyi, Kaggle]
+![Screenshot 2025-05-25 230446](https://github.com/user-attachments/assets/1acfbfab-c447-4fa1-a250-299b1c0fc1d9)
 
 ---
 
