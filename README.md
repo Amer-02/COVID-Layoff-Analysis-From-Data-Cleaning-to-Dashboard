@@ -6,7 +6,7 @@ This project explores the global impact of workforce layoffs during the COVID-19
 - 📈 **Interactive Dashboards** built with **Power BI**
 
 ## 📌 Project Highlights
-- Cleaned raw layoff dataset using SQL (handled necessary nulls, standardized columns, performed EDA).
+- Cleaned raw layoff dataset using SQL (removed duplicates, handled un-necessary nulls, standardized columns, performed EDA).
 - Analyzed layoff trends by company, industry, geography, and time.
 - Built a Power BI dashboard showing:
   - Total layoffs over time
