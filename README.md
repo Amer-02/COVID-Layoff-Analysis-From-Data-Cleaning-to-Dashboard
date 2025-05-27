@@ -13,7 +13,7 @@ This project explores the global impact of workforce layoffs during the COVID-19
   - Top companies and industries affected
   - Geographic distribution of layoffs
 
-## 🛠 Tools Used
+## 🛠 Tools and Technologies Used
 - SQL (MySQL)
 - Power BI
 - Excel (For minor data review)
