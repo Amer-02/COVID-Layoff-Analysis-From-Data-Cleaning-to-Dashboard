@@ -14,7 +14,8 @@ This project explores the global impact of workforce layoffs during the COVID-19
   - Geographic distribution of layoffs
 
 ## 🛠 Tools & Technologies Used
-- SQL (MySQL)
+- SQL
+- MySQL
 - Power BI
 - Excel (For minor data review)
 
