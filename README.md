@@ -29,4 +29,14 @@ This project explores the global impact of workforce layoffs during the COVID-19
 
 ---
 
+## 🔍 Project Insights
+
+This project explores global layoff trends using interactive visualizations in Power BI. It helps answer critical workforce-related questions such as:
+- Which months or years saw the highest layoffs globally?
+- Which countries and regions are most affected by layoffs?
+- Which companies have laid off the most employees?
+- What are the most impacted industries or sectors?
+
+---
+
 Feel free to clone or fork the repository and explore the data-driven story of layoffs during one of the most disruptive global events of the decade.
