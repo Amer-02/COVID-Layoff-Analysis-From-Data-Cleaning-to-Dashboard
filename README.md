@@ -1,4 +1,4 @@
-# COVID-19 Layoffs Analysis (SQL + Power BI)
+# 💼❌🦠 COVID-19 Layoffs Analysis (SQL + Power BI)
 
 This project explores the global impact of workforce layoffs during the COVID-19 pandemic. It involves:
 
@@ -14,8 +14,7 @@ This project explores the global impact of workforce layoffs during the COVID-19
   - Geographic distribution of layoffs
 
 ## 🛠 Tools & Technologies Used
-- SQL
-- MySQL
+- SQL (MySQL)
 - Power BI
 - Excel (For minor data review)
 
